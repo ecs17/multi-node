@@ -1,0 +1,14 @@
+{
+  "name": "04-base-node",
+  "version": "1.0.0",
+  "description": "Esta es una ap de prueba",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ECS",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^15.0.2"
+  }
+}
